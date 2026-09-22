@@ -35,4 +35,4 @@ The project performs operations across three main media types:
 - **Black Hat Filter**: Highlights dark elements smaller than the structuring element ($5\times5$) (`cv2.MORPH_BLACKHAT`).
 ### 7. Edge Detection
 - **Canny Edge Detection**: Detects sharp structural boundaries and contours (`cv2.Canny`).
-### 8. Video Stream Processing
+
