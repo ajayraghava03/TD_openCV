@@ -1,7 +1,7 @@
 # OpenCV Computer Vision Practicals
 A comprehensive OpenCV and Python assignment project demonstrating core Computer Vision operations including image processing, geometric transformations, filtering, edge detection, video file processing, and live webcam feed manipulation.
 ---
-## 📌 Project Overview
+##  Project Overview
 This repository contains `opencv_assignment.py`, a complete practical demonstration of essential Computer Vision techniques using standard Python libraries: `opencv-python` and `numpy`. 
 The project performs operations across three main media types:
 1. **Static Image Processing** (`input.jpg`)
