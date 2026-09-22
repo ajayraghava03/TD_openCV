@@ -8,7 +8,7 @@ The project performs operations across three main media types:
 2. **Video File Processing** (`input_video.mp4`)
 3. **Real-time Webcam Streaming** (Camera Index `0`)
 ---
-## 🚀 Features & Covered Concepts
+##  Features & Covered Concepts
 ### 1. Image I/O & Manipulation
 - **Read & Display**: Reads `input.jpg` and presents window previews.
 - **Exporting Images**: Saves modified output frames to disk.
